@@ -1,0 +1,699 @@
+[33mcommit 0f6c18853b28e104913dbcfc99a4f439549253e7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mstaging[m[33m, [m[1;31morigin/staging[m[33m)[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Fri May 24 18:48:44 2024 +0400
+
+    notification service api
+
+[33mcommit 407778117654545347b3ebd87b988d0a7b48ee30[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Fri May 24 00:36:14 2024 +0400
+
+    add market static page api methods
+
+[33mcommit 61d4b306897dc5fc0832fcea5f31b62257815080[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Thu May 23 16:03:30 2024 +0400
+
+    add market api methods
+
+[33mcommit 662e0fc57ac0f8a570c12eb0e6047ae89d7d80af[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Wed May 22 22:39:38 2024 +0400
+
+    add market payloads
+
+[33mcommit 484e6bee66619d14c74b280c7fb1fed593710fab[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Wed May 22 17:46:47 2024 +0400
+
+    add market endpoints
+
+[33mcommit 5a178b35bdd9b8c0ccd27d285785bf9d9d65cfca[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Wed May 22 14:20:07 2024 +0400
+
+    add files
+
+[33mcommit f41034265a88f74f39616a2855e29aa00d712115[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Wed May 22 01:58:52 2024 +0400
+
+    add customers api
+
+[33mcommit a2d30f43bdcdbf3e299e3bdd9815dae20e67499c[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Mon May 20 02:39:33 2024 +0400
+
+    add customer api methods
+
+[33mcommit 867ece7f77d1c7b4b3fea6dbe3e368fe8ce7a2e2[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Mon May 20 02:39:05 2024 +0400
+
+    add customer api methods
+
+[33mcommit 6903db2316859e3e5e0581f5bd7fe8a16d45facb[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Fri May 17 14:44:04 2024 +0400
+
+    add allure steps and api methods
+
+[33mcommit 26b1dfea18aeda7e98ea2c0ed86d6acbeca7a9db[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Thu May 16 17:51:30 2024 +0400
+
+    add customer api methods and payloads
+
+[33mcommit b50ecc539521e88117eb675c707aedff583ab918[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Wed May 15 03:32:34 2024 +0400
+
+    add customer endpoints and payloads
+
+[33mcommit d01adfdaa3428a2744a5125e9761ca9749fa0a0d[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Tue May 14 19:50:07 2024 +0400
+
+    add customer endpoints
+
+[33mcommit 87c39302808067ccd85d8daa5979bba7e023e497[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Mon May 13 22:24:58 2024 +0400
+
+    add customer endpoints
+
+[33mcommit 4c3c7dbf91af4ffc667fb8fbc7785145188efbc5[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Sun May 12 01:37:10 2024 +0400
+
+    add catalog endpoints
+
+[33mcommit 7a0aa2b8d5c9ea0179eb666a30f4a7b6805f737a[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Sun May 12 01:15:05 2024 +0400
+
+    add catalog endpoints
+
+[33mcommit 93bb0046b324ae46361226f56c5cf7b1d6a25f0a[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Fri May 10 19:05:04 2024 +0400
+
+    add catalog endpoints
+
+[33mcommit 7af80e6d67a0e9f62feccfc9cf41c01fb8df9725[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Wed May 8 16:55:16 2024 +0400
+
+    add catalog endpoints
+
+[33mcommit ac2ce238dabcd17853d2d431a585ed77ea15623d[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Wed May 8 11:13:30 2024 +0400
+
+    add endpoints
+
+[33mcommit 9afa5cbd545e83607994572161b652383ac09efa[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue May 7 18:51:44 2024 +0400
+
+    add features endpoint api
+
+[33mcommit 61982db5fab8126bc7c7ff3068ba00cd1651ddf8[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Tue May 7 17:43:54 2024 +0400
+
+    add endpoints
+
+[33mcommit 2b5b4b5a8ea9b382c12b66475d2e384efbf71769[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue May 7 13:56:30 2024 +0400
+
+    add endpoints
+
+[33mcommit fcf5dc8f38978409d5d9eb6ce2542d45bc49d047[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Wed May 1 13:15:38 2024 +0400
+
+    delete project files
+
+[33mcommit e76fd0c03da440fc34f04ef596381de42979314b[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Wed May 1 11:50:47 2024 +0400
+
+    add admin basket tests
+
+[33mcommit c2591412044ff0fcca6c44aba021c4edcb08c002[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue Apr 30 17:37:51 2024 +0400
+
+    add catalog api
+
+[33mcommit 4cf606fa7c7b9e3de412410e82c79835bb3e5de0[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue Apr 30 16:15:42 2024 +0400
+
+    add categories api methods
+
+[33mcommit 999f1d83d15041efa2103d5e207df5d7a393b603[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue Apr 30 14:48:10 2024 +0400
+
+    add api methods
+
+[33mcommit f18ae7d77979ac265e1ff4c8ac76a1dba685ab66[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Tue Apr 30 14:04:05 2024 +0400
+
+    add catalog endpoints
+
+[33mcommit 1c4bd15508d06af6b51255096765231e0dbac331[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue Apr 30 12:44:26 2024 +0400
+
+    add endpoints
+
+[33mcommit b998d0af1d059be5d731fd03f63d2c2cb605c6aa[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue Apr 30 11:29:43 2024 +0400
+
+    add endpoints
+
+[33mcommit 8616a9c35290dcec4f8ed18a56af9fff62c28129[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Mon Apr 29 09:54:44 2024 +0400
+
+    add catalog endpoints
+
+[33mcommit 32ac2acb46cac3e86844388d7015eb2e68e8f85d[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Wed Apr 24 16:56:01 2024 +0400
+
+    add catalog endpoints
+
+[33mcommit ba3586b43fa5e2089b898cf58a5cf3c5cbe105cb[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Tue Apr 23 18:26:28 2024 +0400
+
+    add catalog api methods
+
+[33mcommit 418c4c9833b962476e2efc700b3391b77aa42382[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Mon Apr 22 20:57:35 2024 +0400
+
+    add wish list tests
+
+[33mcommit e5ba087a74955d9d5ddbf92d6f1c54afc8edf5db[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Sun Apr 21 19:55:00 2024 +0400
+
+    create order
+
+[33mcommit 8f901649d4a03f05880d59f37672e5bb2c1bc373[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Sat Apr 20 23:14:41 2024 +0400
+
+    create order
+
+[33mcommit 60e808764322fe9cea909fb039c5a2a5a7181c7e[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue Apr 16 16:46:14 2024 +0400
+
+    add endpoints
+
+[33mcommit 78cb77517b7f5d2f22007502d57fd7c7db45cb97[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Mon Apr 15 13:22:51 2024 +0400
+
+    create order
+
+[33mcommit c7c31c43bbc79d65ec32f16b127303eb31fad967[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Sat Apr 13 01:58:27 2024 +0400
+
+    create order
+
+[33mcommit 0a263f0facdd6a0b744212ef335e2a3be9390888[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Thu Apr 11 14:58:56 2024 +0400
+
+    add endpoints
+
+[33mcommit 5a408622e2a6123d06d8a810a62c382c74272187[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Thu Apr 11 07:59:59 2024 +0400
+
+    add tests
+
+[33mcommit e21a59dfec4032bc83e777f6215822c38ffe86e0[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Wed Apr 10 23:36:08 2024 +0400
+
+    add endpoints
+
+[33mcommit f05ea3c6ccd1b496338048365946d1779e69e39c[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Mon Apr 8 23:05:53 2024 +0400
+
+    add tests
+
+[33mcommit f059033a75a19fd46051230a76f7e4813d466b54[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Mon Apr 8 14:00:30 2024 +0400
+
+    add endpoints
+
+[33mcommit 5cf03abaaa0adaad7a4553e83be9b6b75e60a334[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Sun Apr 7 19:13:12 2024 +0400
+
+    add tests
+
+[33mcommit 70db6d229c7a41a4105136b073234c6f77e85a51[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Sun Apr 7 18:58:54 2024 +0400
+
+    add basket api methods
+
+[33mcommit 01802305ecb6c8c29e97c90d6482fe675039e68e[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Fri Apr 5 19:53:46 2024 +0400
+
+    add basket api methods
+
+[33mcommit 990613adc75ba7541544ef844cd5c74c64a33f8e[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Thu Apr 4 21:58:45 2024 +0400
+
+    add test
+
+[33mcommit e9a286143e818e7e51533d6365bbad53e8b3a7e2[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Thu Apr 4 01:45:10 2024 +0400
+
+    add test
+
+[33mcommit a76e3c77ef2285251f34bf3015bc0af8eb0b4860[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Wed Apr 3 18:33:13 2024 +0400
+
+    add test
+
+[33mcommit ca59c45696e7ae6be8f2d4962a12d739bdfede8d[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Wed Apr 3 18:33:00 2024 +0400
+
+    add test
+
+[33mcommit d83b2d2cc99d7d3f2bfab9c2a6398041a4cb7f17[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Wed Apr 3 15:27:50 2024 +0400
+
+    add allure
+
+[33mcommit 16638a21903635ddea11589492c4f590acb04bfb[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Wed Apr 3 15:16:42 2024 +0400
+
+    add allure
+
+[33mcommit 5cd5795c4e635529e65236dffc5b732297644e50[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue Apr 2 01:41:00 2024 +0400
+
+    fix
+
+[33mcommit bd3555111622bc554805b6a02d8ac1a368fe42ff[m
+Author: i.azarashvili <i.azarashvili@extra.ge>
+Date:   Mon Apr 1 21:33:49 2024 +0000
+
+    .env edited online with Bitbucket
+
+[33mcommit 14e05543299f19730f4690fe86d224c862d7ba77[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue Apr 2 01:32:59 2024 +0400
+
+    add tests
+
+[33mcommit fc3614915ff44351d2a577c3e5843aec92b57739[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Mon Apr 1 16:24:19 2024 +0400
+
+    add tests
+
+[33mcommit afd8da75b8604aabce494ee08c227c3e1d8b3b71[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Sat Mar 30 00:59:03 2024 +0400
+
+    add
+
+[33mcommit ce8ffd78b737f5fea778e3c759ae50f9c00cefa3[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Sat Mar 30 00:58:50 2024 +0400
+
+    add
+
+[33mcommit 3abf27b444154950d2ea2a80649ea12226b6778f[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Thu Mar 28 23:36:33 2024 +0400
+
+    add
+
+[33mcommit de2c6453acbc29f616f93197197dc9e79c77113d[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Thu Mar 28 23:33:03 2024 +0400
+
+    add
+
+[33mcommit 45d5739c5c75dc69c434dbea1100fac00ae1bce1[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Thu Mar 28 09:34:04 2024 +0400
+
+    upload project
+
+[33mcommit b01a3a6922d0dd11776789ca41291b35af241b25[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Thu Mar 28 09:26:46 2024 +0400
+
+    upload project
+
+[33mcommit 68772216d222c41505401f13261a08663d4af08d[m
+Merge: c2786da 63652fb
+Author: i.azarashvili <i.azarashvili@extra.ge>
+Date:   Tue Mar 26 10:54:35 2024 +0000
+
+    Merged in staging (pull request #6)
+    
+    refactor
+
+[33mcommit 63652fb2349e01c496a7c6493be053cde8717c31[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue Mar 26 14:54:22 2024 +0400
+
+    refactor
+
+[33mcommit c2786da9a52ced3ee7868c4a264f6ecb468d68ba[m
+Merge: 21d9494 649e0b1
+Author: i.azarashvili <i.azarashvili@extra.ge>
+Date:   Tue Mar 26 10:53:04 2024 +0000
+
+    Merged in staging (pull request #5)
+    
+    Staging
+
+[33mcommit 649e0b117e97ea80176ce75185557d6c74bbcce7[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue Mar 26 14:52:39 2024 +0400
+
+    refactor
+
+[33mcommit ced0108315144b7c5a01d2e462272fe83b70c819[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue Mar 26 14:52:16 2024 +0400
+
+    refactor
+
+[33mcommit 21d9494f9b4e6770ee22ea22c042fcf2dd1e8721[m
+Merge: 72889d3 baba4d8
+Author: Beka Sazuashvili <b.sazuashvili@digitalarea.ge>
+Date:   Mon Mar 18 11:13:05 2024 +0000
+
+    Merged in feature/async-tests (pull request #4)
+    
+    Feature/async tests
+
+[33mcommit baba4d8cd8de0883d3f543eb0e7517d4026bd514[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Thu Mar 14 11:39:34 2024 +0400
+
+    add
+
+[33mcommit d3b09562668b8d259ba4d42c2da17b923bcfb1ed[m
+Author: iazarashvili <ilia.azarashvili@gmail.com>
+Date:   Sat Mar 9 20:36:24 2024 +0400
+
+    add
+
+[33mcommit 4262b35fcedf8c465e84021189600e3a95dfa437[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Thu Feb 8 20:32:09 2024 +0400
+
+    add
+
+[33mcommit 4a80724def133a7a3ff16bfda49c60bbd2614b29[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Fri Feb 2 11:12:38 2024 +0400
+
+    add ordering tests
+
+[33mcommit 1517832ecaae220fa7a15ee633f5533320750379[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Fri Feb 2 11:12:13 2024 +0400
+
+    add ordering tests
+
+[33mcommit 1d3f58fb1f4a340dc3526bb5a02644c3473797e5[m
+Merge: c52c0c3 0bf2149
+Author: i.azarashvili <i.azarashvili@extra.ge>
+Date:   Sat Jan 27 10:47:04 2024 +0000
+
+    Merged in feature/create-tests (pull request #3)
+    
+    Feature/create tests
+
+[33mcommit 0bf2149307b9a86ba3fb7906699b60c80078ac7f[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Sat Jan 27 14:46:16 2024 +0400
+
+    add
+
+[33mcommit 2c284ef2eb46c4ef875e9dc91e7e5ff0fd7e4fb4[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Sat Jan 27 13:15:44 2024 +0400
+
+    add methods
+
+[33mcommit 77d86c7e8db20d27b8b55a8b0daa3c37c195bab1[m
+Merge: 59633ef 055daf1
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Fri Jan 26 12:17:53 2024 +0400
+
+    Merge remote-tracking branch 'origin/feature/create-tests' into feature/create-tests
+
+[33mcommit 59633ef032c54a8ba9b4bd210015ef1be6c21d8c[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Fri Jan 26 12:17:34 2024 +0400
+
+    add methods
+
+[33mcommit 055daf1873d74b70affed54c1a9b1baffb968734[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Tue Dec 5 17:30:27 2023 +0400
+
+    ref
+
+[33mcommit 5ac5ccb712e8a1f54927a9c6654d1c3c376b3a50[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Mon Nov 6 21:56:16 2023 +0400
+
+    add methods
+
+[33mcommit 13bb0257b316c9c0eb23015ae0f4cb4f58739876[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Mon Nov 6 18:40:54 2023 +0400
+
+    add methods
+
+[33mcommit eb278a88e6e4e9da3688cde743aad0010526ab46[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Fri Nov 3 16:52:19 2023 +0400
+
+    add methods
+
+[33mcommit 408d8c04a85b53577af412911d77412879366ff4[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Fri Nov 3 16:51:52 2023 +0400
+
+    add methods
+
+[33mcommit fb617ec2fa37f733d22db2411005a8e7bc8a3533[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Wed Oct 25 00:36:55 2023 +0400
+
+    add tests
+
+[33mcommit 1ba9a19490062b9c3daf7e703a273554eac395e2[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue Oct 24 23:50:04 2023 +0400
+
+    add methods
+
+[33mcommit 3478d099c6b8ec7cd135310a656b6b3cc2ce34aa[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Mon Oct 23 16:50:36 2023 +0400
+
+    add methods
+
+[33mcommit 1907b3338c8995dedef63b02ff9c9a5d8788ad8b[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Fri Oct 20 11:34:27 2023 +0400
+
+    add ordering api tests
+
+[33mcommit 8bafdc0ed7c0fe0edd17087006d97bec09faf4b1[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Thu Oct 19 11:13:41 2023 +0400
+
+    fixing
+
+[33mcommit 67db18eace645e091b82242820e49ddf61fc067f[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Wed Oct 18 02:04:45 2023 +0400
+
+    add ordering api tests
+
+[33mcommit e983cbe746bbc0bc30f40f6b5b568913d2e912fb[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue Oct 17 02:13:49 2023 +0400
+
+    add ordering api
+
+[33mcommit 7f0b5e840daa9e7529063c57faf393d191c0475d[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Thu Oct 12 10:27:39 2023 +0400
+
+    logger
+
+[33mcommit 6f5f53eecab08f7bc28e6acb045d17eb881fd92a[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Wed Oct 11 19:21:17 2023 +0400
+
+    logger
+
+[33mcommit ae15785811bd12f6a1204d937b11e511c6758a37[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Wed Oct 11 17:37:49 2023 +0400
+
+    ref urls and identity
+
+[33mcommit 25e3b8bc59b3dfe414e0713f6760f68281f8cc20[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Wed Oct 11 17:34:41 2023 +0400
+
+    ref urls and identity
+
+[33mcommit f4eaeba055225753a9d4e977ed6e5421500ceed1[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Wed Oct 11 16:36:59 2023 +0400
+
+    fixing
+
+[33mcommit c7f42c48c8f2bf19d907cdca7ac200aba58361ef[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Wed Oct 11 16:30:37 2023 +0400
+
+    fixing
+
+[33mcommit c52c0c3ac0515ccc997939f085b2c83fd53c6b80[m
+Merge: 72889d3 200098c
+Author: i.azarashvili <i.azarashvili@extra.ge>
+Date:   Wed Oct 11 12:14:40 2023 +0000
+
+    Merged in feature/create-tests (pull request #2)
+    
+    Feature/create tests
+
+[33mcommit 200098ccefb4b4f8706552cf200279716217a6dc[m
+Author: iliaazarashv_er250wc <i.azarashvili@extra.ge>
+Date:   Wed Oct 11 14:23:34 2023 +0400
+
+    add
+
+[33mcommit e46f27608fd18643fa4dcba4edd3e6b5d5aab475[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Wed Oct 11 11:39:00 2023 +0400
+
+    add tests
+
+[33mcommit 72889d32f96a6d7b60a9a553bbb0505e45fe5cdd[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Fri Oct 6 02:28:53 2023 +0400
+
+    update python version
+
+[33mcommit d9befcdd9373f7244d731a4e23933e48f04f1eff[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Thu Sep 21 16:58:46 2023 +0400
+
+    google maps api
+
+[33mcommit b3b527e6f1bf95291fa0166e9193951e36de017f[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Thu Sep 21 16:53:27 2023 +0400
+
+    google maps api
+
+[33mcommit 499c402bd7a94242161cae032b1e6e7746f451e4[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Thu Sep 21 15:34:50 2023 +0400
+
+    google maps api
+
+[33mcommit c3e06a7a78c765ba8894f47685d81854b845b0ad[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Thu Aug 10 16:59:48 2023 +0400
+
+    add catalog api methods
+
+[33mcommit 4c87968547fe5cc02feeb5f31850c6737cf2c02d[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Wed Aug 2 22:31:49 2023 +0400
+
+    add catalog api methods
+
+[33mcommit 9c168222056b5a4a6921be845a8bf82bbb4816c9[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue Aug 1 18:43:30 2023 +0400
+
+    add basket api methods
+
+[33mcommit c4a1e428550ff8971919ec566416d1239d1030a2[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Tue Aug 1 01:54:51 2023 +0400
+
+    add dotenv variables
+
+[33mcommit 69f4f3f728646df5370e000e1846dd13d18a2e02[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Mon Jul 31 15:00:18 2023 +0400
+
+    add api
+
+[33mcommit c21a06b30bf932001168b33b18a71d6ac17c73a1[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Mon Jul 31 13:26:13 2023 +0400
+
+    create modules file
+
+[33mcommit 159269c139e5d9935b04a27e2b16cb90ced613f3[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Mon Jul 31 13:21:41 2023 +0400
+
+    create http methods
+
+[33mcommit 023b0dd907661a283fe4308b48ed9bbc26ca1ca6[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Mon Jul 31 13:10:52 2023 +0400
+
+    create http methods
+
+[33mcommit 137fde2f3cb77d4dc213ae7f42bf40781ed029f3[m
+Author: i.azarashvili <ilia.azarashvili@gmail.com>
+Date:   Mon Jul 31 13:10:16 2023 +0400
+
+    create http methods
+
+[33mcommit c21395e403c8482182d383f84278698454d8d03c[m
+Author: Beka Sazuashvili <b.sazuashvili@digitalarea.ge>
+Date:   Mon May 22 13:19:33 2023 +0000
+
+    Initial commit
